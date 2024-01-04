@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    border-radius: 100%;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
